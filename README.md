@@ -78,13 +78,80 @@ const abhay = {
 ---
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 157 Contributions in the Year 2021
+ > 
+> 📦 193.6 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 42 Public Repositories 
+ > 
+> 🔑 24 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.66% 
+🌆 Daytime    65 commits     ███████░░░░░░░░░░░░░░░░░░   27.66% 
+🌃 Evening    123 commits    █████████████░░░░░░░░░░░░   52.34% 
+🌙 Night      29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.34%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.87% 
+Tuesday      37 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.74% 
+Wednesday    24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.21% 
+Thursday     30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
+Friday       30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
+Saturday     41 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.45% 
+Sunday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.19%
+
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               35 repos            ██████████████░░░░░░░░░░░   57.38% 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
+CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
+C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.92% 
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.92%
+
+```
 
 
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Abhay0809/Abhay0809/master/charts/bar_graph.png) 
 
 
-
+ Last Updated on 16/08/2021
 <!--END_SECTION:waka-->
 
 
