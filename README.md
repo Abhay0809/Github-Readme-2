@@ -30,9 +30,14 @@
 
 <!-- VIEW COUNT -->
 
-<p align="center">
+<!-- <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Abhay0809" />
-</p>
+</p> -->
+
+<h2><b> 
+    Something about me...   
+    <img src="./assets/cat-fly.webp" width="50">
+</b></h2>
 
 ```javascript
 const abhay = {
