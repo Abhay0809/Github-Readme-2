@@ -76,14 +76,12 @@ const abhay = {
 </div>
 
 ---
-
-### :zap: Recent Github Activity
   
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2135](https://github.com/EddieHubCommunity/support/issues/2135) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 💪 Opened PR [#7](https://github.com/WE-FOSS/Link-Trim/pull/7) in [WE-FOSS/Link-Trim](https://github.com/WE-FOSS/Link-Trim)
-3. 💪 Opened PR [#5](https://github.com/WE-FOSS/Link-Trim/pull/5) in [WE-FOSS/Link-Trim](https://github.com/WE-FOSS/Link-Trim)
-<!--END_SECTION:activity-->
+<br> 
+
+<h2>📊 &nbsp; <b><u>STATS</u></b></h2>
+
+<br>
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 **✨ 10 people were here!**
@@ -133,3 +131,7 @@ const abhay = {
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
+### :zap: Recent Github Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
