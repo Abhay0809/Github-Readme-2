@@ -70,11 +70,11 @@ const abhay = {
 <h1>Unique about me? <img src="./assets/peeps.webp" width="60"></h1>
     <em>
         <b>
-             I love connecting with different people
+             I like connecting with different people
         </b> 
         so if you want to say 
         <b>
-            hi, I'll be happy to meet you more!
+            hi, I'll be happy to chat with you!
         </b>
         Drop any message in my social profile! 
     </em>
@@ -89,57 +89,32 @@ const abhay = {
 <br>
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 71 people were here!**
-
-
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 775968 Lines of Code ✍️**
-
-
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 157 Contributions in year 2021**
-
-
 <!--END_CONTRIBUTIONS:readme-info-->
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
-**I'm a night 🦉** 
-
-| | | | |
-| --- | --- | --- | --- |
-|🌞 Morning                |17 commits          |![](https://via.placeholder.com/32x22/000000/000000?text=+)![](https://via.placeholder.com/368x22/b8b8b8/b8b8b8?=text=+)|8.1%|
-|🌆 Daytime                |50 commits          |![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|23.81%|
-|🌃 Evening                |121 commits         |![](https://via.placeholder.com/232x22/000000/000000?text=+)![](https://via.placeholder.com/168x22/b8b8b8/b8b8b8?=text=+)|57.62%|
-|🌙 Night                  |22 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.48%|
-| | | | |
-
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-📅 **I'm Most Productive on Mondays** 
-
-| | | | |
-| --- | --- | --- | --- |
-|Monday                   |40 commits          |![](https://via.placeholder.com/76x22/000000/000000?text=+)![](https://via.placeholder.com/324x22/b8b8b8/b8b8b8?=text=+)|19.42%|
-|Tuesday                  |31 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.05%|
-|Wednesday                |21 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.19%|
-|Thursday                 |21 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.19%|
-|Friday                   |30 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.56%|
-|Saturday                 |34 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|16.5%|
-|Sunday                   |29 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|14.08%|
-| | | | |
-
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 ### :zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2135](https://github.com/EddieHubCommunity/support/issues/2135) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 💪 Opened PR [#7](https://github.com/WE-FOSS/Link-Trim/pull/7) in [WE-FOSS/Link-Trim](https://github.com/WE-FOSS/Link-Trim)
-3. 💪 Opened PR [#5](https://github.com/WE-FOSS/Link-Trim/pull/5) in [WE-FOSS/Link-Trim](https://github.com/WE-FOSS/Link-Trim)
 <!--END_SECTION:activity-->
+
+<div align="center">
+    <h3 align="center">
+        <b>
+        Made with &nbsp;💛&nbsp; by Abhay Anand!
+        <br>
+        Show some  ❤️  by starring some of the repositories!
+        </br>
+    </h3>
+</div>
