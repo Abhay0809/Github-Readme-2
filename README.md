@@ -65,9 +65,8 @@ const abhay = {
 };
 ```
 
----
 <div>
-<h1>Unique about me? <img src="./assets/peeps.webp" width="60"></h1>
+<h2>Unique about me? <img src="./assets/peeps.webp" width="60"></h2>
     <em>
         <b>
              I like connecting with different people
@@ -80,13 +79,7 @@ const abhay = {
     </em>
 </div>
 
----
-  
-<br> 
-
 <h2>📊 &nbsp; <b><u>STATS</u></b></h2>
-
-<br>
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 **✨ 71 people were here!**
@@ -94,17 +87,20 @@ const abhay = {
 
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 775968 Lines of Code ✍️**
-
-
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
 **🏆 151 Contributions in year 2021**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
+
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+**From Hello World I have written 775968 Lines of Code ✍️**
+
+
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
+
+### :zap: DAILY STATS 
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
 **I'm a night 🦉** 
@@ -119,6 +115,7 @@ const abhay = {
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
+### :zap: WEEKLY STATS 
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
 📅 **I'm Most Productive on Mondays** 
@@ -143,6 +140,8 @@ const abhay = {
 2. 💪 Opened PR [#7](https://github.com/WE-FOSS/Link-Trim/pull/7) in [WE-FOSS/Link-Trim](https://github.com/WE-FOSS/Link-Trim)
 3. 💪 Opened PR [#5](https://github.com/WE-FOSS/Link-Trim/pull/5) in [WE-FOSS/Link-Trim](https://github.com/WE-FOSS/Link-Trim)
 <!--END_SECTION:activity-->
+
+---
 
 <div align="center">
     <h3 align="center">
