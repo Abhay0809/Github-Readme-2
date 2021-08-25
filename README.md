@@ -89,13 +89,13 @@ const abhay = {
 
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 178 Contributions in year 2021**
+**🏆 179 Contributions in year 2021**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 648478 Lines of Code ✍️**
+**From Hello World I have written 630962 Lines of Code ✍️**
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
@@ -123,8 +123,8 @@ const abhay = {
 | | | | |
 | --- | --- | --- | --- |
 |Monday                   |37 commits          |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|17.96%|
-|Tuesday                  |37 commits          |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|17.96%|
-|Wednesday                |23 commits          |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.17%|
+|Tuesday                  |36 commits          |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|17.48%|
+|Wednesday                |24 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.65%|
 |Thursday                 |20 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|9.71%|
 |Friday                   |29 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|14.08%|
 |Saturday                 |31 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.05%|
