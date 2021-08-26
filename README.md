@@ -136,9 +136,9 @@ const abhay = {
 ### :zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2135](https://github.com/EddieHubCommunity/support/issues/2135) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 💪 Opened PR [#7](https://github.com/WE-FOSS/Link-Trim/pull/7) in [WE-FOSS/Link-Trim](https://github.com/WE-FOSS/Link-Trim)
-3. 💪 Opened PR [#5](https://github.com/WE-FOSS/Link-Trim/pull/5) in [WE-FOSS/Link-Trim](https://github.com/WE-FOSS/Link-Trim)
+1. ❗️ Opened issue [#1](https://github.com/SaloniSahay/Weather-App/issues/1) in [SaloniSahay/Weather-App](https://github.com/SaloniSahay/Weather-App)
+2. 🗣 Commented on [#2135](https://github.com/EddieHubCommunity/support/issues/2135) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 💪 Opened PR [#7](https://github.com/WE-FOSS/Link-Trim/pull/7) in [WE-FOSS/Link-Trim](https://github.com/WE-FOSS/Link-Trim)
 <!--END_SECTION:activity-->
 
 ---
