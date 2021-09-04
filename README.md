@@ -136,9 +136,9 @@ const abhay = {
 ### :zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/SaloniSahay/Weather-App/issues/1) in [SaloniSahay/Weather-App](https://github.com/SaloniSahay/Weather-App)
-2. 💪 Opened PR [#2](https://github.com/SaloniSahay/Weather-App/pull/2) in [SaloniSahay/Weather-App](https://github.com/SaloniSahay/Weather-App)
-3. ❗️ Opened issue [#1](https://github.com/SaloniSahay/Weather-App/issues/1) in [SaloniSahay/Weather-App](https://github.com/SaloniSahay/Weather-App)
+1. ❌ Closed PR [#10](https://github.com/chdastolfo/si-portfolio-summer-2017/pull/10) in [chdastolfo/si-portfolio-summer-2017](https://github.com/chdastolfo/si-portfolio-summer-2017)
+2. ❗️ Closed issue [#1](https://github.com/SaloniSahay/Weather-App/issues/1) in [SaloniSahay/Weather-App](https://github.com/SaloniSahay/Weather-App)
+3. 💪 Opened PR [#2](https://github.com/SaloniSahay/Weather-App/pull/2) in [SaloniSahay/Weather-App](https://github.com/SaloniSahay/Weather-App)
 <!--END_SECTION:activity-->
 
 ---
