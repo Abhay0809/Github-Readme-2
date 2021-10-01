@@ -136,9 +136,9 @@ const abhay = {
 ### :zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/sumanchaurasiya/python-problems/pull/1) in [sumanchaurasiya/python-problems](https://github.com/sumanchaurasiya/python-problems)
-2. 💪 Opened PR [#1](https://github.com/sumanchaurasiya/Covid19-Tracker/pull/1) in [sumanchaurasiya/Covid19-Tracker](https://github.com/sumanchaurasiya/Covid19-Tracker)
-3. 💪 Opened PR [#1](https://github.com/sumanchaurasiya/Sliding-Text-Website/pull/1) in [sumanchaurasiya/Sliding-Text-Website](https://github.com/sumanchaurasiya/Sliding-Text-Website)
+1. 💪 Opened PR [#1](https://github.com/sumanchaurasiya/java-cwh/pull/1) in [sumanchaurasiya/java-cwh](https://github.com/sumanchaurasiya/java-cwh)
+2. 💪 Opened PR [#1](https://github.com/sumanchaurasiya/python-problems/pull/1) in [sumanchaurasiya/python-problems](https://github.com/sumanchaurasiya/python-problems)
+3. 💪 Opened PR [#1](https://github.com/sumanchaurasiya/Covid19-Tracker/pull/1) in [sumanchaurasiya/Covid19-Tracker](https://github.com/sumanchaurasiya/Covid19-Tracker)
 <!--END_SECTION:activity-->
 
 ---
