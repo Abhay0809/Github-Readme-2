@@ -136,9 +136,9 @@ const abhay = {
 ### :zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/GDSC-RTU/quotes-api/pull/9) in [GDSC-RTU/quotes-api](https://github.com/GDSC-RTU/quotes-api)
-2. 🎉 Merged PR [#1](https://github.com/Abhay0809/JavaScript-Program/pull/1) in [Abhay0809/JavaScript-Program](https://github.com/Abhay0809/JavaScript-Program)
-3. 🎉 Merged PR [#1](https://github.com/Abhay0809/C-Personal-Diary/pull/1) in [Abhay0809/C-Personal-Diary](https://github.com/Abhay0809/C-Personal-Diary)
+1. ❌ Closed PR [#648](https://github.com/AshuKulu/HacktoberFest2021/pull/648) in [AshuKulu/HacktoberFest2021](https://github.com/AshuKulu/HacktoberFest2021)
+2. ❌ Closed PR [#9](https://github.com/GDSC-RTU/quotes-api/pull/9) in [GDSC-RTU/quotes-api](https://github.com/GDSC-RTU/quotes-api)
+3. 💪 Opened PR [#9](https://github.com/GDSC-RTU/quotes-api/pull/9) in [GDSC-RTU/quotes-api](https://github.com/GDSC-RTU/quotes-api)
 <!--END_SECTION:activity-->
 
 ---
