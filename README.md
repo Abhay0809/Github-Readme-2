@@ -136,9 +136,9 @@ const abhay = {
 ### :zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Abhay0809/C-Personal-Diary/pull/1) in [Abhay0809/C-Personal-Diary](https://github.com/Abhay0809/C-Personal-Diary)
-2. 🎉 Merged PR [#1](https://github.com/Abhay0809/EDC-BCET-Webpage/pull/1) in [Abhay0809/EDC-BCET-Webpage](https://github.com/Abhay0809/EDC-BCET-Webpage)
-3. 🎉 Merged PR [#1](https://github.com/Abhay0809/JAVA-CWH/pull/1) in [Abhay0809/JAVA-CWH](https://github.com/Abhay0809/JAVA-CWH)
+1. 🎉 Merged PR [#1](https://github.com/Abhay0809/JavaScript-Program/pull/1) in [Abhay0809/JavaScript-Program](https://github.com/Abhay0809/JavaScript-Program)
+2. 🎉 Merged PR [#1](https://github.com/Abhay0809/C-Personal-Diary/pull/1) in [Abhay0809/C-Personal-Diary](https://github.com/Abhay0809/C-Personal-Diary)
+3. 🎉 Merged PR [#1](https://github.com/Abhay0809/EDC-BCET-Webpage/pull/1) in [Abhay0809/EDC-BCET-Webpage](https://github.com/Abhay0809/EDC-BCET-Webpage)
 <!--END_SECTION:activity-->
 
 ---
