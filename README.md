@@ -136,9 +136,9 @@ const abhay = {
 ### :zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/iamdevvalecha/Hacktoberfest-21-Open-First-PR/issues/34) in [iamdevvalecha/Hacktoberfest-21-Open-First-PR](https://github.com/iamdevvalecha/Hacktoberfest-21-Open-First-PR)
-2. 💪 Opened PR [#34](https://github.com/iamdevvalecha/Hacktoberfest-21-Open-First-PR/pull/34) in [iamdevvalecha/Hacktoberfest-21-Open-First-PR](https://github.com/iamdevvalecha/Hacktoberfest-21-Open-First-PR)
-3. ❗️ Closed issue [#1](https://github.com/Abhay0809/css-color-picker/issues/1) in [Abhay0809/css-color-picker](https://github.com/Abhay0809/css-color-picker)
+1. 💪 Opened PR [#648](https://github.com/AshuKulu/HacktoberFest2021/pull/648) in [AshuKulu/HacktoberFest2021](https://github.com/AshuKulu/HacktoberFest2021)
+2. 🗣 Commented on [#34](https://github.com/iamdevvalecha/Hacktoberfest-21-Open-First-PR/issues/34) in [iamdevvalecha/Hacktoberfest-21-Open-First-PR](https://github.com/iamdevvalecha/Hacktoberfest-21-Open-First-PR)
+3. 💪 Opened PR [#34](https://github.com/iamdevvalecha/Hacktoberfest-21-Open-First-PR/pull/34) in [iamdevvalecha/Hacktoberfest-21-Open-First-PR](https://github.com/iamdevvalecha/Hacktoberfest-21-Open-First-PR)
 <!--END_SECTION:activity-->
 
 ---
