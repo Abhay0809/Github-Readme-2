@@ -136,9 +136,9 @@ const abhay = {
 ### :zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Abhay0809/JavaScript-Program/issues/3) in [Abhay0809/JavaScript-Program](https://github.com/Abhay0809/JavaScript-Program)
-2. 🗣 Commented on [#7](https://github.com/Abhay0809/JavaScript-Program/issues/7) in [Abhay0809/JavaScript-Program](https://github.com/Abhay0809/JavaScript-Program)
-3. 🗣 Commented on [#8](https://github.com/Abhay0809/JavaScript-Program/issues/8) in [Abhay0809/JavaScript-Program](https://github.com/Abhay0809/JavaScript-Program)
+1. 🎉 Merged PR [#10](https://github.com/Abhay0809/JavaScript-Program/pull/10) in [Abhay0809/JavaScript-Program](https://github.com/Abhay0809/JavaScript-Program)
+2. 🗣 Commented on [#3](https://github.com/Abhay0809/JavaScript-Program/issues/3) in [Abhay0809/JavaScript-Program](https://github.com/Abhay0809/JavaScript-Program)
+3. 🗣 Commented on [#7](https://github.com/Abhay0809/JavaScript-Program/issues/7) in [Abhay0809/JavaScript-Program](https://github.com/Abhay0809/JavaScript-Program)
 <!--END_SECTION:activity-->
 
 ---
