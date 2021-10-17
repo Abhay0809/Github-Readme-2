@@ -151,4 +151,8 @@ const abhay = {
         Show some  ❤️  by starring some of the repositories!
         </br>
     </h3>
+    <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="text" />
 </div>
+
+
+
