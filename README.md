@@ -82,7 +82,7 @@ const abhay = {
 <h2>📊 &nbsp; <b><u>STATS</u></b></h2>
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 2 people were here!**
+**✨ 10 people were here!**
 
 
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
