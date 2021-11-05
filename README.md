@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <b>
-        Hi there, I'm Abhay Anand 
+        Hello there, I'm Abhay Anand 
     </b>
     <img src="./assets/cat.webp" width="50">
 </h1>
